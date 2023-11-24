@@ -17,12 +17,14 @@
         .player_one {
 
             text-align: center;
+			background-color:white;
             border-radius: 1px solid balck;
             padding: 10px;
         }
 
         .player_two {
             text-align: center;
+			background-color:white;
             border-radius: 1px solid balck;
             padding: 10px;
         }
